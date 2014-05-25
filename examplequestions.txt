@@ -1,0 +1,44 @@
+ID	Question
+location	Where are you?
+breakfast	What did you have for breakfast?
+sleep	How many hours did you sleep?
+sex	Did you have sex?
+coffee	How many cups of coffee did you drink?
+period	Are you on your period?
+dayrating	Rate the day from 1 - 10.
+events	Did any special events take place?
+masturbate	How often did you masturbate?
+cry	Did you cry?
+generalmood	What was the prevalent mood of the day?
+currentmood	What is your current mood?
+work	How many hours did you work for?
+write	How many hours did you write?
+code	How many hours did you code?
+meetings	How many hours did you spend in meetings?
+excercise	Did you excercise?
+exercise	How many hours did you excercise for?
+exercisetype	What type of exercise did you engage in?
+travel	Did you travel today?
+alcohol	How many glasses of alcohol did you drink?
+meals	Did you have three full meals?
+weather	How was the weather?
+badfeeling	What do you feel particularly bad about?
+goodfeelings	What do you feel particularly good about?
+observations	Did you make any interesting observations today?
+salientmemory	What's your most salient memory of today?
+tv	How many hours did you watch TV?
+friendsfamily	How many friends/family members did you talk to today?
+friendsfamilyidentity	Which friends/family members did you talk to?
+tvcontent	What TV did you watch?
+piano	How many hours did you play the piano?
+readfiction	How many hours did you  spend reading fiction?
+readnonfiction	How many hours did you spend reading non-fiction?
+talks	How many hours did you spend in talks?
+delayedentry	Is this entry for yesterday?
+habit	What did I do today purely out of habit?
+unsaid	What did I think today but didn't say? Why?
+learned	What is a thing I learned today?
+dream	What did I dream about?
+fictiontitle	What fiction did you read?
+breakfastlocation	Where did you have breakfast?
+computergames	How many hours did you spend playing computer games?
