@@ -1,4 +1,6 @@
-# Lazy Journal v 0.1 created by jdegen (thegricean) on 01/01/2014
+# Lazy Journal 
+
+# v 0.1 created by jdegen (thegricean) on 01/01/2014
 
 ################
 # What it does #
